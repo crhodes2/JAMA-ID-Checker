@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "Jama_Id_Checker.app",
+        "profile_name": "default",
+        "project_name": "jama-id-webhook",
+        "runtime": "python3.6",
+        "s3_bucket": "jama-id-check"
+        "remote_env": "s3://jama-id-check/secrets.json",
+    }
+}
